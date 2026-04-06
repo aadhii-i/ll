@@ -1,3 +1,4 @@
 - handle null input @ 2026-03-11T10:18:03+05:30
 - update deps @ 2026-03-28T18:23:39+05:30
 - tweak config @ 2026-04-03T07:01:02+05:30
+- comment clarification @ 2026-04-06T21:56:13+05:30
