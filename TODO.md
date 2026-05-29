@@ -1,2 +1,3 @@
 - tweak config @ 2026-04-04T07:11:21+05:30
 - sync with upstream @ 2026-04-22T22:41:00+05:30
+- improve error handling @ 2026-05-29T12:05:55+05:30
