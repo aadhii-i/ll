@@ -10,3 +10,4 @@
 - fix edge case in parser @ 2026-09-08T17:54:11+05:30
 - improve error handling @ 2026-09-09T09:46:01+05:30
 - bump version @ 2026-11-03T17:42:16+05:30
+- update deps @ 2026-06-28T07:15:37+05:30
