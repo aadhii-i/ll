@@ -7,3 +7,4 @@
 - refactor helper functions @ 2026-04-28T19:53:12+05:30
 - tweak config @ 2026-05-23T08:06:29+05:30
 - add logging @ 2026-06-09T21:40:24+05:30
+- bump version @ 2026-07-17T19:52:51+05:30
