@@ -5,3 +5,4 @@
 - improve error handling @ 2026-05-19T08:27:16+05:30
 - add test coverage @ 2026-06-19T19:09:36+05:30
 - fix typo @ 2026-07-08T13:00:47+05:30
+- improve error handling @ 2026-07-27T18:47:09+05:30
