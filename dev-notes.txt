@@ -3,3 +3,4 @@
 - bump version @ 2026-05-04T16:59:37+05:30
 - sync with upstream @ 2026-06-05T12:14:28+05:30
 - optimize query @ 2026-06-17T21:25:08+05:30
+- improve naming @ 2026-08-04T12:45:50+05:30
