@@ -2,3 +2,4 @@
 - sync with upstream @ 2026-04-22T22:41:00+05:30
 - improve error handling @ 2026-05-29T12:05:55+05:30
 - handle null input @ 2026-07-26T12:55:47+05:30
+- fix typo @ 2026-08-08T17:10:16+05:30
