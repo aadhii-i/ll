@@ -7,3 +7,4 @@
 - fix typo @ 2026-07-08T13:00:47+05:30
 - improve error handling @ 2026-07-27T18:47:09+05:30
 - sync with upstream @ 2026-09-07T10:40:55+05:30
+- fix edge case in parser @ 2026-09-08T17:54:11+05:30
